@@ -1,0 +1,142 @@
+#html_wrapper{
+	border-right: 0.5px solid #a39193;
+	border-left: 0.5px solid #a39193;
+	background-color:#eeeeee;
+}
+img{
+	margin:auto;
+	
+
+}
+h1{
+	padding-top:0px;
+	margin-top:10px;
+	text-align:center;
+}
+p{
+	font-size:15px;
+	text-align:center !important;
+	color:#000000 !important;
+}
+.col-md-6>p{
+	text-align:center;
+}
+h3{
+	padding-top:0px;
+	margin-top:0px;
+	text-align:left;
+	font-size:30px;
+}
+hr{
+	color:#000000 !important;
+}
+.heading{
+	text-align: center !important;
+}
+.main_heading{
+	margin-bottom:0px;
+	padding-bottom:0px;
+	font-size:70px;
+}
+#top_wrapper{
+	border-bottom:1px solid black;
+	background-color: #79cdcd;
+	margin-top:0px;
+	padding-top:25px;
+
+}
+.main_heading>span{
+	font-size:30px;
+	
+}
+h2{
+	text-align:center;
+	padding-top:0px;
+}
+/*---------------------------------------------------------------------------------
+-----------------------------------NAVBAR column----------------------------------
+---------------------------------------------------------------------------------*/
+#nav_bar{ 
+	padding-bottom:0px;
+	margin-bottom:0px;
+	border-bottom: 1px solid black;
+	background-color: #ffffff !important;
+} 
+.active{
+	
+}
+body{
+	padding:0px;
+}
+
+/*---------------------------------------------------------------------------------
+-----------------------------------NAVBAR column----------------------------------
+---------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------
+-----------------------------------Showcase----------------------------------
+---------------------------------------------------------------------------------*/
+.row{
+	border-bottom: 1px solid #a39193;
+
+	padding-top:15px;
+	padding-bottom:5px;
+}
+#1{
+	width:90%!important;
+	position:relative !important;
+	margin:15px  !important;
+}
+.showcase_image{
+	width:80%;
+	position:relative;
+	left:10%
+}
+.heading{
+	text-align: center;
+	font-size:25;
+}
+.showcase{
+	
+	
+}
+.jumbotron{
+	padding:0px;
+	margin:0px;
+	border-bottom: 1px solid black;
+}
+.jumbotron>img{
+	width:100%;
+	margin:0px;
+	padding:0px;
+	
+}
+#wrapper{
+	margin-top:0px;
+	padding-top:0px;
+}
+.webmaster{
+	position: relative !important;
+	margin: auto !important;
+	left: 37%
+}
+.webmaster_row{
+	background-color:#79cdcd
+}
+table{
+	width:100%;
+	font-size:20px;
+}
+thead{
+	background-color:#79cdcd;
+	margin-bottom: 10px !important;
+}
+tr{
+	padding:4px !important;
+}
+/*---------------------------------------------------------------------------------
+-----------------------------------side_bar----------------------------------
+---------------------------------------------------------------------------------*/
+
+/*---------------------------------------------------------------------------------
+-----------------------------------side_bar----------------------------------
+---------------------------------------------------------------------------------*/

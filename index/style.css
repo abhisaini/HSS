@@ -1,0 +1,170 @@
+#html_wrapper{
+	border-right: 0.5px solid #a39193;
+	border-left: 0.5px solid #a39193;
+	background-color:#eeeeee;
+}
+img{
+	margin:auto;
+
+}
+body{
+	position: relative;
+}
+p{
+	text-align:center;
+	font-size:15px;
+}
+a.portfolio:hover{
+	text-decoration:none !important;
+	color:#ffffff;
+}
+a.portfolio{
+	color:#ffffff;
+}
+/*---------------------------------------------------------------------------------
+-----------------------------------NAVBAR column----------------------------------
+---------------------------------------------------------------------------------*/
+#nav_bar{
+	padding-bottom:0px;
+	margin-bottom:0px;
+	
+	background-color: #ffffff !important;
+}
+.navbar{
+	border-bottom: 1px solid black !important;
+	background-color: #ffffff !important;
+}
+.icon-bar{
+	background-color: #79CDCD !important;
+}
+/*---------------------------------------------------------------------------------
+-----------------------------------  NAVBAR end  ----------------------------------
+---------------------------------------------------------------------------------*/
+
+
+/*---------------------------------------------------------------------------------
+--------------------------------------page top-------------------------------------
+---------------------------------------------------------------------------------*/
+#top{
+	text-align: center;
+	background-color:#79CDCD;
+	border-bottom: 1px solid black;
+}
+#top_wrapper{
+	padding-top:25px;
+	padding-bottom:25px;
+	margin-top:10px;
+	margin-bottom:10px;
+	
+}
+#top_wrapper>h1>span{
+	color: #000000;
+	font-size:35px;
+}
+#top_wrapper h1{
+	font-size:50px;
+	color:#ffffff
+}
+#jssor{
+	position:relative;
+	right:20px;
+}
+/*---------------------------------------------------------------------------------
+------------------------------------page top end-----------------------------------
+---------------------------------------------------------------------------------*/
+ /* jssor slider arrow navigator skin 02 css */
+        /*
+        .jssora02l                  (normal)
+        .jssora02r                  (normal)
+        .jssora02l:hover            (normal mouseover)
+        .jssora02r:hover            (normal mouseover)
+        .jssora02l.jssora02ldn      (mousedown)
+        .jssora02r.jssora02rdn      (mousedown)
+        */
+        .jssora02l, .jssora02r {
+            display: block;
+            position: absolute;
+            /* size of arrow element */
+            width: 55px;
+            height: 55px;
+            cursor: pointer;
+            background: url('img/a02.png') no-repeat;
+            overflow: hidden;
+        }
+        .jssora02l { background-position: -3px -33px; }
+        .jssora02r { background-position: -63px -33px; }
+        .jssora02l:hover { background-position: -123px -33px; }
+        .jssora02r:hover { background-position: -183px -33px; }
+        .jssora02l.jssora02ldn { background-position: -3px -33px; }
+        .jssora02r.jssora02rdn { background-position: -63px -33px; }
+        /* jssor slider thumbnail navigator skin 11 css *//*.jssort11 .p            (normal).jssort11 .p:hover      (normal mouseover).jssort11 .pav          (active).jssort11 .pav:hover    (active mouseover).jssort11 .pdn          (mousedown)*/.jssort11 .p {    position: absolute;    top: 0;    left: 0;    width: 200px;    height: 69px;    background: #181818;}.jssort11 .tp {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;    border: none;}.jssort11 .i, .jssort11 .pav:hover .i {    position: absolute;    top: 3px;    left: 3px;    width: 60px;    height: 30px;    border: white 1px dashed;}* html .jssort11 .i {    width /**/: 62px;    height /**/: 32px;}.jssort11 .pav .i {    border: white 1px solid;}.jssort11 .t, .jssort11 .pav:hover .t {    position: absolute;    top: 3px;    left: 68px;    width: 129px;    height: 32px;    line-height: 32px;    text-align: center;    color: #fc9835;    font-size: 13px;    font-weight: 700;}.jssort11 .pav .t, .jssort11 .p:hover .t {    color: #fff;}.jssort11 .c, .jssort11 .pav:hover .c {    position: absolute;    top: 38px;    left: 3px;    width: 194px;    height: 32px;    line-height: 32px;    color: #fff;    font-size: 11px;    font-weight: 400;    overflow: hidden;}.jssort11 .pav .c, .jssort11 .p:hover .c {    color: #fc9835;}.jssort11 .t, .jssort11 .c {    transition: color 2s;    -moz-transition: color 2s;    -webkit-transition: color 2s;    -o-transition: color 2s;}.jssort11 .p:hover .t, .jssort11 .pav:hover .t, .jssort11 .p:hover .c, .jssort11 .pav:hover .c {    transition: none;    -moz-transition: none;    -webkit-transition: none;    -o-transition: none;}.jssort11 .p:hover, .jssort11 .pav:hover {    background: #333;}.jssort11 .pav, .jssort11 .p.pdn {    background: #462300;}
+        
+/*---------------------------------------------------------------------------------
+-----------------------------------nirvaak column----------------------------------
+---------------------------------------------------------------------------------*/
+#karyakram{
+	background-color:#79CDCD;
+	color: #ffffff;
+	padding:20px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+#karyakram>.container>h1{
+	text-align:center;
+	font-size:50px;
+}
+#karyakram>.container>h4{
+	text-align:right;
+	text-decoration:underline;
+}
+.heading{
+	text-align:center;
+}
+.karyakram_img{
+	position:relative;
+	left:25% !important;
+	padding-bottom:10px;
+	padding-top:5px;
+	width:288px !important;
+}
+/*---------------------------------------------------------------------------------
+----------------------------------  nirvaak end  ----------------------------------
+---------------------------------------------------------------------------------*/
+
+/*---------------------------------------------------------------------------------
+----------------------------------  pol start   -----------------------------------
+---------------------------------------------------------------------------------*/
+#pol{
+	border-bottom: 1px solid black;
+}
+#pol>.container>h1{
+	text-align:center;
+	font-size:50px;
+}
+#pol>.container>h4{
+	text-align:right;
+	text-decoration:underline;
+}
+/*---------------------------------------------------------------------------------
+------------------------------------  pol end  ------------------------------------
+---------------------------------------------------------------------------------*/
+#chand>.container>h1{
+	text-align:center;
+	font-size:50px;
+}
+#chand>.container>h4{
+	text-align:right;
+	text-decoration:underline;
+}
+#chand{
+	background-color:#79CDCD;
+	color: #ffffff;
+	padding:20px;
+	border-bottom: 1px solid black;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70% !important;
+      margin: auto !important;
+  }
+
